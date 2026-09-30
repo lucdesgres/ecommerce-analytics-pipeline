@@ -1,0 +1,5 @@
+delay_bucket,mean,count
+Early (7+ days),4.316477169173829,71329
+Early/on-time,4.199896067902304,17319
+Late (up to 7 days),3.1838301716350497,4428
+Very late (7+ days),1.7158317872603588,3234
